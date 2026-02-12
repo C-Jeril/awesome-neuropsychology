@@ -66,3 +66,5 @@ A collection of awesome psychology research resources.
 * [Awesome Psychology](https://github.com/weeeBox/awesome-psychology) - courses and videos
 * [Computational Cognitive Scientists](https://compcog.science/)
 * [Twitter List for Computational Psycho]()
+* [Kuakua Experiment](https://kuakua.app/experiment) - Web-native behavioral experiment suite implementing reaction time and cognitive control tasks in the browser
+* [Kuakua Explore](https://kuakua.app/explore) - Curated collection of web-based psychology experiments and research-related resources
